@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohak Tiwari</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://th.bing.com/th/id/OIP.5IiCiK0D2Ij6Nvm1F1x3EgHaEY?w=1600&h=946&rs=1&pid=ImgDetMain)"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohak1301&label=Profile%20views&color=0e75b6&style=flat" alt="mohak1301" /> </p>
 
