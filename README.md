@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="[https://www.digitalsolutionservices.com/img/services/web%20development.gif](n)"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohak1301&label=Profile%20views&color=0e75b6&style=flat" alt="mohak1301" /> </p>
+<p align="left"> <img src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif" alt="mohak1301" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohak1301" alt="mohak1301" /></a> </p>
 
