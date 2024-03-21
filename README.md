@@ -2,10 +2,9 @@
 <h1 align="center">Hi 👋, I'm Mohak Tiwari</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<div style = 'display : flex' > 
-<p align="left"> <img src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif" alt="mohak1301" /> </p>
+<!-- <p align="left"> <img src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif" alt="mohak1301" /> </p> -->
 <p align="right"> <img src="https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif" /> </p>
-</div>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohak1301" alt="mohak1301" /></a> </p>
 
