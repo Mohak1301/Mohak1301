@@ -1,9 +1,10 @@
 [![MasterHead](https://th.bing.com/th/id/R.75ea38495d3a5bc0c90316b57f9bbfb5?rik=CKmgcCEhXQE1OA&riu=http%3a%2f%2fwww.pramukhdigital.com%2fwp-content%2fuploads%2f2018%2f07%2fNew-PNC-Animated-Banners.gif&ehk=fs6XGSkrODbDz9LuU2tZgUw5aQd76DxwLvAaGpktUZI%3d&risl=&pid=ImgRaw&r=0)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohak Tiwari</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif](n)"/>
+
 
 <p align="left"> <img src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif" alt="mohak1301" /> </p>
+<p align="right"> <img src="https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohak1301" alt="mohak1301" /></a> </p>
 
