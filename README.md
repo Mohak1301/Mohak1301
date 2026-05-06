@@ -62,32 +62,6 @@ Full Stack Web Developer & Gen AI Enthusiast from India
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-
-<p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohak1301&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-  alt="top languages"
-  height="160"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Mohak1301&show_icons=true&locale=en&theme=tokyonight"
-  alt="github stats"
-  height="160"
-/>
-
-</p>
-
-<p align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=Mohak1301&theme=tokyonight"
-  alt="github streak"
-/>
-
-</p>
 
 ---
 
