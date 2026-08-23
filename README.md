@@ -1,68 +1,47 @@
-<h1 align="center">Hi 👋, I'm Mohak Tiwari</h1>
+# Hi, I'm Mohak Tiwari
 
-<h3 align="center">
-Full Stack Web Developer & Gen AI Enthusiast from India
-</h3>
+Backend-focused Software Development Engineer at Board Infinity, based in Bengaluru, India.
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=Mohak1301&theme=tokyonight&margin-w=15&margin-h=15"
-      alt="Mohak1301"
-    />
-  </a>
-</p>
+I build TypeScript and Node.js services for a live-learning platform serving 420K+ participants — owning the scheduling, authentication, notification, and integration layers end to end, from PostgreSQL schema design through production monitoring.
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Mohak1301&label=Profile%20views&color=0e75b6&style=flat"
-    alt="profile views"
-  />
-</p>
+## Experience
 
----
+**Software Development Engineer I** — Board Infinity (Jun 2025 – Present)
+- Own the core backend workflows of InfySession: scheduling, auth, notifications, and integrations with Zoom, BigBlueButton, and Microsoft Teams.
+- Normalized PostgreSQL schemas with Sequelize, removed N+1 queries, added targeted indexes, Redis caching, and Bull/Agenda queues to keep requests under 200ms p50.
+- Built an ops automation layer that turns course go-live into a governed state machine across three services, routed through an SQS FIFO worker.
+- Automated the coach onboarding pipeline and shipped a coach opportunity marketplace with filters, accept/reject flows, and WhatsApp alerts.
+- Built a real-time dashboard for concurrent live sessions and analytics, plus RAG-based global search on vector embeddings.
 
-- 🔭 I’m currently working on [Squad Script](https://github.com/Mohak1301/squad_script)
+**Software Development Engineer Intern** — Board Infinity (Oct 2024 – May 2025)
+- Backend APIs and admin workflows for bulk participant addition, multi-batch sessions, and attendance reports.
+- LMS-native live-session and Course Builder integrations.
 
-- 🌱 I’m currently learning **Generative AI, Node.js, TypeScript, and Backend Development**
+## Tech
 
-- 💬 Ask me about **MERN Stack, APIs, Backend Development, and JavaScript**
+- **Languages:** TypeScript, JavaScript, C++, SQL
+- **Backend:** Node.js, Express.js, REST APIs, Socket.io, Bull, Agenda, AWS SQS, Cloud Scheduler
+- **Databases:** PostgreSQL, MongoDB, Redis, Sequelize, Mongoose
+- **Frontend:** React.js, Redux, HTML5, CSS3
+- **Concepts:** Database design, indexing, query optimization, caching, rate limiting, message queues, system design
+- **Tools & AI:** Git, Postman, Datadog, Sentry, Vercel, RAG, vector embeddings, LLM integration, prompt engineering
 
-- 📫 Reach me at **mohaktiwari2004@gmail.com**
+## Projects
 
-- ⚡ Fun fact: **I debug faster after drinking chai ☕**
+**[SquadScript](https://github.com/Mohak1301/squad_script)** — [live](https://squad-script.vercel.app/)
+Real-time collaborative coding platform with shared rooms, live editing, video calls, and chat. Monaco Editor + Judge0 for multi-language code execution over Express.js REST APIs.
+`React.js` `Node.js` `Express.js` `MongoDB` `Socket.io` `Monaco Editor` `VideoSDK`
 
----
+**[AI Persona Chatbot](https://github.com/Mohak1301/Ai-persona)** — [live](https://ai-persona-wujh.vercel.app/)
+Full-stack chatbot that replies in the tone and style of creator personas, using structured system prompts and input validation.
+`React.js` `Node.js` `Express.js` `Generative AI` `REST APIs`
 
-<h3 align="left">Connect with me:</h3>
+## Education
 
-<p align="left">
-<a href="https://linkedin.com/in/mohaktiwari" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mohak1301" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mohaktiwari2004" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mohaktiwari2004" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
-<a href="https://leetcode.com/mohak13/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-</p>
+B.Tech in Computer Science and Engineering — Lovely Professional University, Punjab (2021 – 2025), GPA 8.19/10
 
----
+## Reach me
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-</p>
-
----
-
-
----
-
-<h3 align="center">✨ Building cool things with code & AI ✨</h3>
+- Email: mohaktiwari2004@gmail.com
+- LinkedIn: [mohaktiwari](https://linkedin.com/in/mohaktiwari)
+- LeetCode: [mohak13](https://leetcode.com/mohak13/)
